@@ -1,4 +1,4 @@
-Django==3.0.8
+Django==3.1.6
 MySQL-python==1.2.5
 numpy==1.19.0
 scikit-learn==0.23.1
